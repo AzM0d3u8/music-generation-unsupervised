@@ -96,7 +96,7 @@ matplotlib
 
 ## Contributions
 
-**EDA**
+**EDA & Preprocessing**
 - Nafiur Rahman Afnan (ID: 24141074)
 
 **Task 1: LSTM Autoencoder**
