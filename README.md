@@ -60,6 +60,7 @@ This project demonstrates a comprehensive approach to unsupervised music generat
 - **Task 1**: Reconstructed MIDI files from test set samples
 - **Task 2**: 8 MIDI files, one per musical style, sampled from the learned latent space
 - **Task 3**: 10 long-sequence MIDI files (512+ tokens each) generated autoregressively
+- **Google drive link**: https://drive.google.com/drive/folders/1uBcGCl_vyXsmWeO71_QiJKwoQzJEh6IJ?usp=sharing
 
 ## Requirements
 
