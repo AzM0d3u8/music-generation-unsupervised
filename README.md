@@ -95,14 +95,26 @@ matplotlib
 
 ## Contributions
 
-**Task 1: LSTM Autoencoder & Baseline Model & Report**
-- 634_24141074_Nafiur Rahman Afnan
+**EDA**
+- Nafiur Rahman Afnan (ID: 24141074)
+
+**Task 1: LSTM Autoencoder**
+- Nafiur Rahman Afnan (ID: 24141074)
+
+**Baseline Models**
+- Nafiur Rahman Afnan (ID: 24141074)
 
 **Task 2: Conditional VAE**
 - Adnan Safin (ID: 2299478)
 
 **Task 3: Transformer Decoder**
 - Adnan Safin (ID: 2299478)
+
+**Model Evaluation**
+- Nafiur Rahman Afnan (ID: 24141074)
+
+**Writing Latex Report**
+- Nafiur Rahman Afnan (ID: 24141074)
 
 ## License
 
